@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <title>hoja de vida</title>
+    </head>
+    <body bgcolor="beige">
+     <br><br>
+        <div align="center">
+            <img src="imagenes\foto1.jpg" alt="yopi" height="330" width="220">
+        </div>
+        <hr size="25" noshade "><br>
+<center>
+        <u><h2 style="color: lightseagreen">Alison Suasly Cordova Donis</h2></u><br><br>
+        <h3 style="color: royalblue;">Perito en Administración de Empresas </h3><br><br>
+
+        
+      <hr size="25"noshade style="color: plum">
+     <br><b style="color: blue"><u>Sobre mi</u></b><br>
+     <p>Estudiante de Perito en Administracion de Empresas en busca de oportunidades para poder crecer profesionalmente y poder ejercer mi profesion lo mejor posible </p><br>
+     
+     <hr size="25" noshade "><br>
+     <br><b style="color: blue" ><u>Informacion Personal</u></b><br><br>
+     <b><u>Fecha de nacimiento:  </u></b>
+
+     <p>05 de Septiembre de 2006 </p><br>
+     <p>18 años </p><br>
+     <b><u>Telefono:  </u></b>
+     <p>+502 3823 9664</p><br>
+     <b><u>Correo Electronico:  </u></b>
+    <p>alisoncd2006@gmail.com</p><br>
+    <b><u>Ubicación  </u></b><br>
+    <p>13av 2-72 Villa Nueva zona 1 </p>
+    <hr size="25" noshade "><br>
+
+     <br><b style="color: blue"><u>Habilidades</u></b><br><br>
+     <p><u>-Motivacion </u></p><br>
+     <p><u>-Adaptabilidad</u></p><br>
+     <p><u>-Analisis de Datos</u></p><br>
+     <p><u>-Creatividad</u></p><br>
+     <p><u>-Ganas de Aprender</u></p><br>
+
+
+     <br><b style="color: blue"><u>Educacion </u></b><br><br>
+     <b><u>Diversificado</u></b>
+     <p>Instituto Profesional de Computacion</p><br>
+
+     <b><u>Basicos</u></b>
+     <p>Instituto Profesional de Computacion</p><br>
+
+     <b><u>Primaria</u></b>
+     <p>Escuela Oficial Rural Mixta El Tabloncito </p><br>
+     </center>
+     <hr size="25" noshade "><br>     
+        
+
+    </body>
+  
+</html>
